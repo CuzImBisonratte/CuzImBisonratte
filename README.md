@@ -1,5 +1,6 @@
 ### Hi there
 
 #### About me:
--I am German 
--I am an Twitch-Streamer 
+-I am German  
+-I am an Twitch-Streamer  
+ 
