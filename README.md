@@ -6,7 +6,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cuzimbisonratte&repo=coloryourlife)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cuzimbisonratte&repo=Schule-Reaktionstester)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cuzimbisonratte&repo=Botsonratte)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cuzimbisonratte&repo=NetAlive)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cuzimbisonratte&repo=Homepage)](https://github.com/anuraghazra/github-readme-stats)
-
-# Was du dir auch anschauen könntest:
