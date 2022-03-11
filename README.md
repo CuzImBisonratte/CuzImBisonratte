@@ -9,4 +9,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CuzImBisonratte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # Trophäen
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cuzimbisonratte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
