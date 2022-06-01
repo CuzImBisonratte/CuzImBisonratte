@@ -1,12 +1,12 @@
 
 
-### Statistics:  
+## Statistics:  
 ![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/languages.svg)
 ![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/overview.svg)
 
 <br/>  
 
-### My Socials:
+## My Socials:
 <div align="center">
 <a href="https://github.com/cuzimbisonratte" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,7 +34,7 @@
 
 <br/>  
 
-### Connect with me:  
+## What i do:  
 <table><tr><td valign="top" width="33%">
 
 
@@ -94,4 +94,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and edited manually by me</div>
