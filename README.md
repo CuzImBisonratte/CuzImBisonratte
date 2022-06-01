@@ -1,5 +1,11 @@
 
 
+### Statistics:  
+![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/languages.svg)
+![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/overview.svg)
+
+<br/>  
+
 ### My Socials:
 <div align="center">
 <a href="https://github.com/cuzimbisonratte" target="_blank">
@@ -86,11 +92,6 @@
 
 </td></tr></table>
 <br />
-
-
-### Statistics:  
-![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/languages.svg)
-![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/overview.svg)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
