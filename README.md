@@ -3,6 +3,7 @@
 ## Statistics:  
 ![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/languages.svg)
 ![jstrieb Stats](https://raw.githubusercontent.com/CuzImBisonratte/stats/master/generated/overview.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CuzImBisonratte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>  
 
